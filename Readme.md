@@ -1,0 +1,6 @@
+![Two_sum](https://github.com/user-attachments/assets/dfc935f7-bb04-4a5c-a77b-3e31b49d2fe6)
+![palindrome_Number](https://github.com/user-attachments/assets/c9608a10-623d-44a9-a168-2ed16ba3f417)
+![longest_common_prefix](https://github.com/user-attachments/assets/9a11f0dd-6915-4706-82b3-0739c1838ae4)
+![RomantoInteger](https://github.com/user-attachments/assets/ad279196-33f0-4cac-90c0-283b2ffa1beb)
+![valid_parenthesis](https://github.com/user-attachments/assets/d1f551c7-3d67-46b4-aeb6-5e44d238e809)
+![mergetwosortedlist](https://github.com/user-attachments/assets/392ff7fa-5f91-45d1-aa36-58cadc48ff0e)
